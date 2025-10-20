@@ -1,0 +1,6 @@
+open_clip_fetal-main
+xlstm
+checkpoints
+weights
+logs
+__pycache__
